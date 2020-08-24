@@ -131,6 +131,7 @@ navbar:
     - { key: 'category', link: '/categories/', icon: 'iconfont icon-category-fill' }
     - { key: 'tag', link: '/tags/', icon: 'iconfont icon-tags-fill' }
     - { key: 'about', link: '/about/', icon: 'iconfont icon-user-fill' }
+    - { key: 'KEBO', link: '/KOBE/', icon: 'iconfont icon-user-fill' }
     #- { key: 'links', link: '/links/', icon: 'iconfont icon-link-fill' }  # 友链页，把前面#去掉即可展示
 
 search: # 搜索栏，基于 hexo-generator-search 插件，若已安装其他搜索插件请关闭此功能，以避免生成多余的索引文件。
@@ -391,6 +392,10 @@ page404:
 
 
 #---------------------------
-# 友链页
-# Links Page
+# KOBE Page
 #---------------------------
+KOBE:
+  banner_img: /img/kobe.png
+  banner_img_height: 100
+  banner_mask_alpha: 0.3
+  subtitle: '唯有热爱，可抵漫长岁月'
