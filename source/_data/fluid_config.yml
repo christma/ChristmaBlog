@@ -201,7 +201,7 @@ page:
 # Post Page
 #---------------------------
 post:  # 部分配置同时控制自定义页面，注意备注
-  banner_img: /img/chengbao.jpg
+  banner_img: /img/chengbao.png
   banner_img_height: 70  # available: 0 - 100
   banner_mask_alpha: 0.3  # available: 0 - 1.0
   meta:  # 文章标题下方的信息
@@ -328,7 +328,7 @@ livere:
 # Archive Page
 #---------------------------
 archive:
-  banner_img: /img/xiyang.jpg
+  banner_img: /img/xiyang.png
   banner_img_height: 60  # available: 0 - 100
   banner_mask_alpha: 0.3  # available: 0 - 1.0
   subtitle: 美好的事物无法永存 # 打字机内容
@@ -338,7 +338,7 @@ archive:
 # Categories Page
 #---------------------------
 category:
-  banner_img: /img/ta.jpg
+  banner_img: /img/ta.png
   banner_img_height: 60  # available: 0 - 100
   banner_mask_alpha: 0.3  # available: 0 - 1.0
   subtitle:  只有用水将心上的雾气淘洗干净，荣光才会照耀最初的梦想。 # 打字机内容
@@ -350,7 +350,7 @@ category:
 # Tags Page
 #---------------------------
 tag:
-  banner_img: /img/xiyang.jpg
+  banner_img: /img/xiyang.png
   banner_img_height: 80  # available: 0 - 100
   banner_mask_alpha: 0.3  # available: 0 - 1.0
   subtitle: 🦌鹿踏雾而来，🐳鲸携浪而起 # 打字机内容
@@ -367,7 +367,7 @@ tag:
 # About Page
 #---------------------------
 about:  # 关于页需要手动创建，具体请见：https://hexo.fluid-dev.com/docs/guide/#%E5%85%B3%E4%BA%8E%E9%A1%B5
-  banner_img: /img/pubu.jpg
+  banner_img: /img/pubu.png
   banner_img_height: 60  # available: 0 - 100
   banner_mask_alpha: 0.3  # available: 0 - 1.0
   subtitle: 抱怨没用，你得抱我 # 打字机内容
@@ -384,7 +384,7 @@ about:  # 关于页需要手动创建，具体请见：https://hexo.fluid-dev.co
 # 404 Page
 #---------------------------
 page404:
-  banner_img: /img/wra.jpg
+  banner_img: /img/wra.png
   banner_img_height: 85  # available: 0 - 100
   banner_mask_alpha: 0.3  # available: 0 - 1.0
   subtitle: 'Page not found'  # 打字机内容
