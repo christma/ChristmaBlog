@@ -193,10 +193,10 @@ index:
 # 通过 hexo new page 命令创建的页面
 # Custom Page
 page:
-  banner_img: /img/default.png
-  banner_img_height: 60  # available: 0 - 100
+  banner_img: /img/mamba.png
+  banner_img_height: 100  # available: 0 - 100
   banner_mask_alpha: 0.3  # available: 0 - 1.0
-
+  subtitle: '唯有热爱，可抵漫长岁月'
 #---------------------------
 # 文章页
 # Post Page
@@ -352,7 +352,7 @@ category:
 #---------------------------
 tag:
   banner_img: /img/xiyang.png
-  banner_img_height: 80  # available: 0 - 100
+  banner_img_height: 60  # available: 0 - 100
   banner_mask_alpha: 0.3  # available: 0 - 1.0
   subtitle: 🦌鹿踏雾而来，🐳鲸携浪而起 # 打字机内容
   tagcloud: # 标签云
@@ -394,8 +394,8 @@ page404:
 #---------------------------
 # KOBE Page
 #---------------------------
-kobe:
-  banner_img: /img/kobe.png
+KOBE:
+  banner_img: /img/mamba.png
   banner_img_height: 100
   banner_mask_alpha: 0.3
   subtitle: '唯有热爱，可抵漫长岁月'
