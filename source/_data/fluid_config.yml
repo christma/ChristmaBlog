@@ -394,7 +394,7 @@ page404:
 #---------------------------
 # KOBE Page
 #---------------------------
-KOBE:
+kobe:
   banner_img: /img/mamba.png
   banner_img_height: 100
   banner_mask_alpha: 0.3
